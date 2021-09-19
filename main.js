@@ -1,22 +1,6 @@
 'use strict'
 
 {
-//  const a = 10;
-//  const z = 6;
-
-//  if (a >= 9 && z >= 9) {
-//   console.log('OK!');
-//  } else {
-//    console.log('bad...');
-//  }
-
-//  const button = document.getElementById('button');
-//  const start = document.querySelector('h1');
-
-//  button.addEventListener('click', ()=> {
-//    let name = prompt('名前を入力してください');
-//    start.textContent=  name + 'さん';
-//  })
 
 const button = document.getElementById('button');
 const input = document.getElementById('input');
